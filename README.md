@@ -1,2 +1,3 @@
 # GitModStudies
-[リンク https://kazukikanomata.github.io/GitModStudies/]はこちら
+公開ページ
+https://kazukikanomata.github.io/GitModStudies/
